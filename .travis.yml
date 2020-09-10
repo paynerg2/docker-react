@@ -18,6 +18,5 @@ deploy:
   edge: true
   on:
     branch: master
-  access_key_id: "AKIATEBUBGSZXDMBOWRA"
-  secret_access_key:
-    secure: "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"
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
