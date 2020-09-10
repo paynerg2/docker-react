@@ -18,6 +18,6 @@ deploy:
   edge: true
   on:
     branch: master
-  access_key_id: AKIATEBUBGSZXDMBOWRA
+  access_key_id: "AKIATEBUBGSZXDMBOWRA"
   secret_access_key:
-    secure: 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
+    secure: "aGiQEMzQP1e3bDgYBHR+KH5XMbOSNLoG3nnhlWBh"
